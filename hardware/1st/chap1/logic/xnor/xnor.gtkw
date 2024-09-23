@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Jun 11 11:15:42 2024
+[*]
+[dumpfile] "/home/nakano/hdl/src1/logic/xnor/xnor.vcd"
+[dumpfile_mtime] "Tue Jun 11 11:14:08 2024"
+[dumpfile_size] 775
+[savefile] "/home/nakano/hdl/src1/logic/xnor/xnor.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-3.643856 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 214
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 151
+@28
+test_xnor.a
+test_xnor.b
+test_xnor.y1
+test_xnor.y2
+test_xnor.y3
+[pattern_trace] 1
+[pattern_trace] 0
