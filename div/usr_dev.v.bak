@@ -1,0 +1,18 @@
+module div(clk, rst, ld, a, b, ra, rb, ry);
+	input  clk;      /* クロック */
+	input  rst;      /* リセット */
+	input  ld;       /* ロード */
+	input  [3:0] a;  /* 剰余(被除数) */
+	input  [3:0] b;  /* 除数 */
+	output [7:0] ra; /* 剰余レジスタ */
+	output [7:0] rb; /* 除数レジスタ */
+	output [3:0] ry; /* 商レジスタ */
+	
+	reg [7:0] ra;    /* 剰余レジスタ */
+	reg [7:0] rb;    /* 除数レジスタ */
+	reg [3:0] ry;    /* 商レジスタ */
+	
+	/* 以下を記述 */
+	
+	/* ここまで */
+endmodule
